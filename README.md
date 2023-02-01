@@ -1,3 +1,7 @@
+![Banner](https://user-images.githubusercontent.com/119624307/215956295-2deb9953-ed95-431f-aea9-7d914e401050.png)
+
+
+
 # 💫 About Me:
 <br>I am a Junior Front-end Developer. <br>I master the Front-end Framework, <br>namely, React Js.
 
