@@ -3,7 +3,8 @@
 
 
 # 💫 About Me:
-<br>I am a Junior Front-end Developer. <br>And for now, I mastered HTML,CSS,Javascript, and Bootstrap Framework.
+<br>I am a Junior Front-end Developer Specific in React JS.
+<br>For UI Frameworks, I'm specific in React Bootstrap and Material UI.
 
 
 ## 🌐 Socials:
