@@ -4,8 +4,6 @@
 
 # 💫 About Me:
 <br>I am a Junior Front-end Developer Specific in React JS.
-<br>For UI Frameworks, I'm specific in React Bootstrap and Material UI.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alluwiyadi_akbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlluwiyadiAkbar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21115749) 
